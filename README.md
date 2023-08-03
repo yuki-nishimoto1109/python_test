@@ -7,3 +7,7 @@
 
 ## 2023/08/02
 - progate Python I II 修了
+
+## 2023/08/03
+- progate Python III 修了
+- progate Python I~III 問題集 修了
